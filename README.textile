@@ -1,0 +1,15 @@
+h1. sharethis_helper
+
+sharethis_helper for CodeIgniter
+
+h2. Installation
+
+* Download it and place them in your CodeIgniter
+* Open application/helper/sharethis_helper.php and change $sharethis_pub_key ='Add your key here'; and $services = "facebook, twitter, email, sharethis, gbuzz";
+* You can find your sharethis publication key at http://sharethis.com
+* To modify, open application/views/welcome_message.php
+
+
+
+
+
